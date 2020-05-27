@@ -1,1 +1,1 @@
-# getting-to-know-qt-for-python
+# Getting to Know... Qt for Python
